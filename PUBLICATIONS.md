@@ -1800,7 +1800,7 @@ AFP高値を呈した前縦隔悪性奇形腫の1例　AFP値と予後を中心�
   **大腸癌灌流血中のサイトケラチン-20特異的 nested RT-PCR 法による大腸癌肝転移の予測の試み**  
   **梅谷直亨**, 佐々木慎, 正木忠彦, 武藤徹一郎
 
-- 1998年5月17日 American Gastroenterological Association 1998 Annual Meeting (Digestive Disease Week 1998, New Orleans) / Poster  
+- 1998年5月17日 American Gastroenterological Association 1998 Annual Meeting (Digestive Disease Week 1998, New Orleans) / Poster, Abstract G2873 (Gastroenterology 1998;114(4 Suppl):A694)  
   **APC and K-ras mutations in colorectal tumorigenesis**  
   **Naoyuki Umetani**, Tadahiko Masaki, Shin Sasaki, Keiji Matsuda, Tetsuichiro Muto
 
@@ -1843,6 +1843,11 @@ AFP高値を呈した前縦隔悪性奇形腫の1例　AFP値と予後を中心�
   Martinez SR, Mori T, **Umetani N**, Nguyen SL, Kitago M, Tanemura A, Morton DL, O'Day SJ, Hoon DS  
   出典: J Clin Oncol 2006;24(18S):8026
 
+- 2006年4月1〜5日 97th Annual Meeting of the American Association for Cancer Research (AACR), Washington DC  
+  **Inhibitor of the apoptosis protein (IAP) expression level in colorectal cancer**  
+  Takeuchi H, Kim J, Fujimoto A, **Umetani N**, Mori T, Bilchik A, Tran A, Kuo C, Hoon DS  
+  出典: Abstract 1961, Proc Am Assoc Cancer Res 2006;47 / Cancer Res 2006;66(8 Suppl):462
+
 - 2005年9月4〜6日 4th International Conference on Circulating Nucleic Acids in Plasma and Serum (CNAPS IV), London  
   **Prediction of breast tumor progression by integrity of free circulating DNA in serum / Higher amount of free circulating DNA in serum than in plasma is not mainly caused by contaminated extraneous DNA during separation**  
   **Umetani N**, Hiramatsu S, Hoon DS ほか (発表は共同研究者の S. Hiramatsu)  
@@ -1852,6 +1857,16 @@ AFP高値を呈した前縦隔悪性奇形腫の1例　AFP値と予後を中心�
   **Circulating methylated DNA in serum predicts melanoma patients response to biochemotherapy**  
   Mori T, O'Day SJ, **Umetani N**, Kuo C, Kitago M, Wilson L, Martinez SR, Takeshima TL, Milford R, Hoon DS  
   出典: J Clin Oncol 2005;23(16S):7521 (ASCO Merit Award)
+
+- 2005年4月16〜20日 96th Annual Meeting of the American Association for Cancer Research (AACR), Anaheim  
+  **Epigenetic inactivation of ID4 gene by promoter hypermethylation in T1 breast cancer increases risk of regional lymph node metastasis**  
+  **Umetani N**, Mori T, Koyanagi K, Shinozaki M, Kim J, Giuliano AE, Hoon DS  
+  出典: Abstract 3136, Proc Am Assoc Cancer Res 2005;46 / Cancer Res 2005;65(9 Suppl):738
+
+- 2004年3月27〜31日 95th Annual Meeting of the American Association for Cancer Research (AACR), Orlando  
+  **Allelic loss at the APAF-1 locus facilitates colorectal carcinogenesis and metastasis to the liver**  
+  **Umetani N**, Shinozaki M, Fujimoto A, Takeuchi H, Bilchik A, Hoon DS  
+  出典: Abstract 3301, Proc Am Assoc Cancer Res 2004;45 / Cancer Res 2004;64(7 Suppl):764-765
 
 ### 座長・世話人
 
