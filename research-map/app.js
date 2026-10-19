@@ -7,8 +7,8 @@
 
   /* ---------- 語彙の日本語表記 ---------- */
   const LINEAGE_JA = {
-    integrity_core: 'integrity を測定した研究', review: '総説・メタ解析', fragmentomics: 'fragmentomics',
-    cfdna_quant: '遊離 DNA の定量など', method_preanalytic: '測定前条件・方法',
+    integrity_core: '血中 DNA の長さ (integrity) を測った研究', review: '総説・メタ解析', fragmentomics: '断片長の網羅解析 (fragmentomics)',
+    cfdna_quant: '血中 DNA の量などを測った研究', method_preanalytic: '測定前の条件・方法の研究',
   };
   const CANCER_JA = {
     breast: '乳がん', colorectal: '大腸がん', lung: '肺がん', prostate: '前立腺がん', liver: '肝がん', pancreas: '膵がん',
@@ -44,8 +44,8 @@
   const directN = Object.values(D.trends.direct_citations).reduce((a, b) => a + b, 0);
   const cancerKinds = new Set(core.flatMap((n) => n.cancers).filter((c) => c !== 'multiple' && c !== 'other_cancer'));
   const stats = [
-    [directN, '起点の 3 論文を引用した論文'],
-    [core.length, 'integrity を実際に測定した後続研究'],
+    [directN, '梅谷の 3 論文を引用した論文'],
+    [core.length, '後続研究のうち、血中 DNA の長さ (integrity) を実際に測った研究'],
     [core.filter((n) => n.alu).length, 'うち ALU247/115 (同等の ALU 比を含む) を使用'],
     [sr.length, 'システマティックレビュー・メタ解析'],
     [cancerKinds.size + ' 種', '研究されたがん種'],
@@ -82,8 +82,8 @@
     }).join('');
   }
   const mapLegendItems = [
-    ['integrity を測定した研究', '--series-1', 'circle'], ['総説・メタ解析', '--series-2', 'square'],
-    ['fragmentomics', '--series-3', 'triangle'], ['遊離 DNA の定量・方法など', '--neutral-mark', 'circle'], ['起点の 3 論文', '--seed', 'circle'],
+    ['血中 DNA の長さ (integrity) を測った研究', '--series-1', 'circle'], ['総説・メタ解析', '--series-2', 'square'],
+    ['断片長の網羅解析 (fragmentomics)', '--series-3', 'triangle'], ['血中 DNA の量などを測った研究・方法の研究', '--neutral-mark', 'circle'], ['梅谷の 3 論文 (2006)', '--seed', 'circle'],
   ];
 
   /* ---------- ツールチップ ---------- */
@@ -232,7 +232,7 @@
         .on('mouseleave', hideTip)
         .on('click', () => selectSeed(s));
     });
-    gCenter.append('text').attr('class', 'seed-label').attr('x', CX).attr('y', CY + 58).attr('text-anchor', 'middle').text('起点 2006');
+    gCenter.append('text').attr('class', 'seed-label').attr('x', CX).attr('y', CY + 58).attr('text-anchor', 'middle').text('梅谷の 3 論文 (2006)');
   })();
 
   function select(d) {
@@ -244,7 +244,7 @@
       d.alu ? 'ALU247/115' : null, d.finding && d.finding !== 'na' ? '結論: ' + FIND_JA[d.finding] : null,
       d.n ? `対象 ${d.n} 例` : null,
     ].filter(Boolean);
-    const cites = d.cites.length ? `起点のうち ${d.cites.map((p) => SEED_JA[p]).join('、')} を引用` : '起点を直接は引用していない (キーワード検索で収集)';
+    const cites = d.cites.length ? `梅谷の論文のうち ${d.cites.map((p) => SEED_JA[p]).join('、')} を引用` : '梅谷の論文を直接は引用していない (キーワード検索で収集)';
     const link = pubmed(d);
     document.getElementById('detail').innerHTML = `
       <h3>${esc(d.title)}</h3>
@@ -272,9 +272,9 @@
   /* ---------- 年次推移 ---------- */
   (function trend() {
     const series = [
-      { key: 'direct_citations', label: '起点を引用した論文', color: '--text-secondary' },
-      { key: 'integrity_core', label: 'integrity を測定した研究', color: '--series-1' },
-      { key: 'fragmentomics_pubmed', label: 'fragmentomics (PubMed)', color: '--series-3' },
+      { key: 'direct_citations', label: '梅谷の 3 論文を引用した論文', short: '3 論文を引用', color: '--text-secondary' },
+      { key: 'integrity_core', label: '血中 DNA の長さ (integrity) を測った研究', short: '長さを測った研究', color: '--series-1' },
+      { key: 'fragmentomics_pubmed', label: '断片長の網羅解析 (fragmentomics、PubMed の検索による)', short: 'fragmentomics', color: '--series-3' },
     ];
     const years = d3.range(2006, 2027);
     const data = series.map((s) => ({ ...s, values: years.map((y) => ({ y, v: D.trends[s.key][y] || 0 })) }));
@@ -292,7 +292,7 @@
     data.forEach((d) => {
       s.append('path').attr('class', 'line').attr('d', line(d.values)).attr('stroke', css(d.color));
       const last = d.values[d.values.length - 1];
-      s.append('text').attr('class', 'direct-label').attr('x', x(last.y) + 8).attr('y', y(last.v)).attr('dominant-baseline', 'middle').text(`${d.label} ${last.v}`);
+      s.append('text').attr('class', 'direct-label').attr('x', x(last.y) + 8).attr('y', y(last.v)).attr('dominant-baseline', 'middle').text(`${d.short} ${last.v}`);
     });
     // 直接ラベルの重なりをずらす
     const labels = s.selectAll('.direct-label').nodes().sort((a, b) => +a.getAttribute('y') - +b.getAttribute('y'));

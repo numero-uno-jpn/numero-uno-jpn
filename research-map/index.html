@@ -27,7 +27,7 @@
 
 <section id="map">
   <h2>系譜マップ</h2>
-  <p class="note">中心が起点の 3 論文 (2006)。外側の円ほど新しい年。点 1 つが論文 1 本で、大きさは被引用数。点にマウスを重ねると題名、クリックすると詳細が出る。</p>
+  <p class="note">中心が梅谷の 3 論文 (2006)。外側の円ほど新しい年。点 1 つが論文 1 本で、大きさは被引用数。点にマウスを重ねると題名、クリックすると詳細が出る。</p>
   <div class="controls" role="group" aria-label="マップの表示切り替え">
     <label>枝の分け方
       <select id="groupBy">
@@ -39,7 +39,7 @@
     <label>表示
       <select id="showWhich">
         <option value="all">すべて</option>
-        <option value="core">integrity を測定した研究のみ</option>
+        <option value="core">血中 DNA の長さ (integrity) を測った研究のみ</option>
         <option value="alu">ALU247/115 を使った研究のみ</option>
         <option value="review">総説・メタ解析のみ</option>
       </select>
@@ -57,14 +57,14 @@
 
 <section id="trend">
   <h2>年次推移</h2>
-  <p class="note">起点の 3 論文を引用した論文数、integrity を実際に測定した研究数、そして断片長の分布を解析する fragmentomics の論文数 (PubMed の検索による)。2026 年は 10 月までの集計なので少なく見える。</p>
+  <p class="note">梅谷の 3 論文を引用した論文の数、後続研究のうち血中 DNA の長さ (integrity) を実際に測った研究の数、そして断片長の分布を網羅的に解析する fragmentomics の論文の数 (PubMed の検索による)。2026 年は 10 月までの集計なので少なく見える。</p>
   <div class="legend" id="trendLegend"></div>
   <div class="chart" id="trendChart"></div>
 </section>
 
 <section id="breakdown">
-  <h2>integrity 研究の内訳</h2>
-  <p class="note">integrity を実際に測定した <span id="coreN"></span> 研究について、抄録から分類した。1 本の研究が複数に当てはまることがある。</p>
+  <h2>血中 DNA の長さ (integrity) を測った研究の内訳</h2>
+  <p class="note">血中 DNA の長さ (integrity) を実際に測った <span id="coreN"></span> 研究について、抄録から分類した。1 本の研究が複数に当てはまることがある。</p>
   <div class="grid" id="bars"></div>
 </section>
 
