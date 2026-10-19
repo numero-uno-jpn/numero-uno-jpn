@@ -19,5 +19,6 @@ A gastrointestinal surgeon in Tokyo (MD, PhD) with three decades of surgical and
 ### リンク / Links
 
 - 個人サイト (経歴・業績・留学記): https://numero-uno-jpn.github.io/
+- ORCID: [0009-0003-3209-0629](https://orcid.org/0009-0003-3209-0629)
 - [業績一覧](https://numero-uno-jpn.github.io/publications.html)
 - 直腸脱の情報サイト: [直腸脱.info](https://www.datsu.info/)
