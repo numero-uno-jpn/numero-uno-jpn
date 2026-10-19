@@ -32,7 +32,7 @@ Gastrointestinal surgeon in Tokyo. Over three decades I have practiced the full 
 
 ### 研究: 大腸がんの分子生物学
 
-東京大学大学院および米国 John Wayne Cancer Institute (カリフォルニア州) で、大腸がんを中心としたがんの分子生物学的研究に取り組みました。
+東京大学大学院および米国 John Wayne Cancer Institute (カリフォルニア州) で、大腸がんを中心としたがんの分子生物学的研究に取り組みました。留学中の研究と生活は [米国西海岸留学記](ryugaku/) に書いています。
 
 - **血中遊離 DNA (cell-free DNA) によるがん診断**: DNA 精製を必要としない超高感度の DNA 定量法 (ALU repeat を標的とした直接定量 PCR) を開発し、血清中遊離 DNA の完全性 (DNA integrity) から、わずかな血液でがんの存在や進行度を推定できることを示しました。日本・米国・欧州などに特許出願しました。このアイデアは多くの後続研究につながり、その広がりは [研究の系譜マップ](https://numero-uno-jpn.github.io/numero-uno-jpn/research-map/) で俯瞰できます
 - **DNA メチル化 (エピジェネティクス)**: ID4 遺伝子のプロモーター領域のメチル化が大腸がんの予後や乳がんのリンパ節転移と関連することを初めて示しました (ID4 の診断・治療への利用で米国・欧州の特許を取得)。また、真の非メチル化陰性コントロール DNA の合成法などを開発しました
