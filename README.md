@@ -135,9 +135,3 @@ Gastrointestinal surgeon in Tokyo. Over three decades I have practiced the full 
 
 - 東京ストーマリハビリテーション研究会 副会長・世話人
 - 1987 年 全日本医科学生ゴルフ 新人戦 優勝
-
----
-
-## 座右の銘
-
-義理と人情
