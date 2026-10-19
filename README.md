@@ -63,6 +63,8 @@ Gastrointestinal surgeon in Tokyo, specializing in colorectal surgery. My curren
 - **DNA メチル化 (エピジェネティクス)**: ID4 遺伝子のプロモーター領域のメチル化が大腸がんの予後や乳がんのリンパ節転移と関連することを初めて示しました (ID4 の診断・治療への利用で米国・欧州の特許を取得)。また、真の非メチル化陰性コントロール DNA の合成法などを開発しました
 - **大腸がんの発生過程**: 表面陥凹型大腸腫瘍の遺伝子変異や自然史、潰瘍性大腸炎関連腫瘍、マイクロサテライト不安定性 (MSI) の検査法などを研究しました
 
+血中遊離 DNA の integrity による診断のアイデアが、その後どのような研究につながったかは [研究の系譜マップ](https://numero-uno-jpn.github.io/numero-uno-jpn/research-map/) (インタラクティブなページ、[ソース](research-map/)) で俯瞰できます。
+
 論文・特許の一覧は [PUBLICATIONS.md](PUBLICATIONS.md) にまとめています。
 
 ---
