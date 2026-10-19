@@ -1600,6 +1600,12 @@ CONCLUSIONS: These results suggest that the carcinogenesis of signet-ring cell a
 
 </details>
 
+### 書籍の章
+
+Sentinel Lymph Node Chemokine Microenvironment Modulated by Melanoma Metastasis
+Kitago M, Martinez SR, Mori T, Koyanagi K, **Umetani N**, Turner RR, Hoon DS
+In: From Local Invasion to Metastatic Cancer. Humana Press, 2009: 227-235 / [DOI](https://doi.org/10.1007/978-1-60327-087-8_20)
+
 ## 和文論文
 
 症例報告 人工肛門閉鎖における環状皮膚縫合法は瘢痕整容性の改善と創感染の減少に有用 (特集 平成21年度逓信医学年次大会座長推薦)  
@@ -1635,6 +1641,14 @@ AFP高値を呈した前縦隔悪性奇形腫の1例　AFP値と予後を中心�
 手術 2014年02月号(68巻 02号)
 
 ## 和文論文 共著
+
+結腸亜全摘後にbackwash ileitisで回腸切除を要した潰瘍性大腸炎の1例
+北川祐資, 村田祐二郎, 田村徳康, 及川芳徳, **梅谷直亨**
+日本大腸肛門病学会雑誌 69巻2号 Page108-114 (2016) / [DOI](https://doi.org/10.3862/jcoloproctology.69.108)
+
+原発性虫垂癌10例の検討
+及川芳徳, **梅谷直亨**, 田村徳康
+日本大腸肛門病学会雑誌 68巻6号 Page403-408 (2015) / [DOI](https://doi.org/10.3862/jcoloproctology.68.403)
 
 原発癌の肉眼像を呈した肺癌直腸転移の1例  
 波多野まみ, 岸田由起子, 北原英晃, **梅谷直亨**, 北川剛, 津久井元, 森田博義, 寺島裕夫, 田村浩一  
