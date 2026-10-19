@@ -128,6 +128,7 @@ Gastrointestinal surgeon in Tokyo, specializing in colorectal surgery. My curren
 ### その他
 
 - 東京ストーマリハビリテーション研究会 副会長・世話人
+- 医学部学生時代から、統計解析ソフト FISHER (1991 年) と統計グラフ作成ソフト ESCHER (1992 年) の開発に携わる (中山書店から発行)
 - 1987 年 全日本医科学生ゴルフ 新人戦 優勝
 
 ---
