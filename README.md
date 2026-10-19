@@ -12,6 +12,10 @@ Gastrointestinal surgeon in Tokyo. Over three decades I have practiced the full 
 
 ## これまでの仕事
 
+### 医学生時代: 医療用統計ソフトの開発
+
+医学部在学中に、プログラミングの技術を買われて医療用統計ソフトの開発に参加しました。開原成允・大江和彦両先生の開発指導のもと、臨床統計解析ソフト **FISHER** (1991 年) と、医学統計グラフ作成ソフト **ESCHER** (1992 年) の開発に携わり、いずれも中山書店から発行されました ([詳細](PUBLICATIONS.md#ソフトウェア))。
+
 ### 消化器外科医として
 
 大学病院と地域の総合病院で、胃・大腸・肝胆膵・ヘルニア・急性腹症などの手術を幅広く手がけてきました。
@@ -130,7 +134,6 @@ Gastrointestinal surgeon in Tokyo. Over three decades I have practiced the full 
 ### その他
 
 - 東京ストーマリハビリテーション研究会 副会長・世話人
-- 医学部学生時代から、統計解析ソフト FISHER (1991 年) と統計グラフ作成ソフト ESCHER (1992 年) の開発に携わる (中山書店から発行)
 - 1987 年 全日本医科学生ゴルフ 新人戦 優勝
 
 ---
