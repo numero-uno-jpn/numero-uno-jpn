@@ -1921,36 +1921,46 @@ AFP高値を呈した前縦隔悪性奇形腫の1例　AFP値と予後を中心�
 
 ## 特許
 
+ファミリー (同じ発明の各国出願) と各国の状況は Google Patents の記載によります (2026 年 10 月時点)。
+
 ### Use of free circulating DNA for diagnosis, prognosis, and treatment of cancer
 
 (癌の診断、予後、および治療のための遊離循環DNAの使用)
 
-US20160115547A1
-WO2006128192A2
-JP2008545418A
+Inventor: Dave S.B. Hoon, **Naoyuki Umetani**, Eiji Sunami
+Original Assignee: John Wayne Cancer Institute
+Priority date: 2005-05-27
 
-Inventor: Dave S.B. Hoon, **Naoyuki Umetani**, Eiji Sunami  
-Original Assignee: John Wayne Cancer Institute  
-Priority date: 2005-05-27  
+| 国・地域 | 番号 | 書類 |
+|---|---|---|
+| 日本 | 特表2008-545418 (特願2008-513837) | [公表特許公報 (PDF)](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf) / [Google Patents](https://patents.google.com/patent/JP2008545418A/ja) |
+| 国際 (PCT) | WO2006/128192 | [国際公開 (PDF)](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) |
+| 米国 | US2009/0280479, US2016/0115547 | [US2016/0115547 (PDF)](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf) |
+| 欧州 | EP1888786 | [Google Patents](https://patents.google.com/patent/EP1888786A4/en) |
+| オーストラリア | AU2006251937 | [Google Patents](https://patents.google.com/patent/AU2006251937A1/en) |
 
-Abstract  
+Abstract
 A method of detecting circulating DNA in a body fluid. The method comprises identifying a subject suffering from or at risk for developing cancer, obtaining a body fluid sample from the subject, and determining the sequence integrity of circulating DNA in the sample, wherein the circulating DNA is not purified from the sample.
 
-(体液中の循環DNAを検出する方法。この方法は、癌に罹患しているか、または癌を発症するリスクのある対象を特定すること、対象から体液試料を入手すること、および試料中の循環ＤＮＡの配列完全性を決定することを含み、循環ＤＮＡは試料から精製されない。)
+(体液中の循環DNAを検出する方法。この方法は、癌に罹患しているか、または癌を発症するリスクのある対象を特定すること、対象から体液試料を入手すること、および試料中の循環DNAの配列完全性を決定することを含み、循環DNAは試料から精製されない。)
 
-[US patent](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf) / [WO patent](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) / [特許公報](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf)
+### Use of ID4 for diagnosis and treatment of cancer
 
-### Use of id4 for diagnosis and treatment of cancer
+(癌の診断と治療のためのID4の使用)
 
-(癌の診断と治療のためのid4の使用)
+Inventor: Dave S. B. Hoon, **Naoyuki Umetani**
+Original Assignee: John Wayne Cancer Institute
+Priority date: 2005-02-01
 
-Inventor: Dave S. B. Hoon, **Naoyuki Umetani**  
-Original Assignee: John Wayne Cancer Institute  
-Priority date: 2005-02-01  
+| 国・地域 | 番号 | 書類 |
+|---|---|---|
+| 米国 | US7,588,894 (特許) | [Google Patents](https://patents.google.com/patent/US7588894B2/en) |
+| 米国 | US7,888,033 (特許) | [特許公報 (PDF)](https://patentimages.storage.googleapis.com/9f/3d/22/ddcca74a5398ca/US7888033.pdf) |
+| 欧州 | EP2272984 (特許) | [Google Patents](https://patents.google.com/patent/EP2272984B1/en) |
+| 国際 (PCT) | WO2006/084051, WO2010/115127 | [WO2006/084051 (PDF)](https://patentimages.storage.googleapis.com/4e/74/91/6f14884c054aee/WO2006084051A2.pdf) / [WO2010/115127 (PDF)](https://patentimages.storage.googleapis.com/cf/ef/f7/62002cf4b02215/WO2010115127A1.pdf) |
+| カナダ | CA2729621 | [公開公報 (PDF)](https://patentimages.storage.googleapis.com/cf/4f/af/bd42795666efb5/CA2729621A1.pdf) |
 
-Abstract  
+Abstract
 The invention relates to a method of determining whether a human subject is suffering from or at risk for developing pancreatic cancer by determining the methylation level of an ID4 gene promoter or the expression level of an ID4 gene in a biological sample from a human subject. Also disclosed are a method of analyzing the methylation level of an ID4 gene promoter or the expression level of an ID4 gene in a pancreatic cancer cell, and a method of inhibiting the methylation of an ID4 gene promoter or enhancing the expression of an ID4 gene by contacting a pancreatic cancer cell with a compound that decreases the methylation level of an ID4 gene promoter or increases the expression level of an ID4 gene in the cell.
 
 (本発明は、ヒト被験体からの生体試料中のID4遺伝子プロモーターのメチル化レベルまたはID4遺伝子の発現レベルを決定することにより、ヒト被験体が膵臓癌を患っているか、または膵臓癌を発症するリスクがあるかどうかを決定する方法に関する。膵臓癌細胞におけるID4遺伝子プロモーターのメチル化レベルまたはID4遺伝子の発現レベルを分析する方法、およびID4遺伝子プロモーターのメチル化を阻害するかまたはID4遺伝子の発現を増強する方法も開示されている。膵臓癌細胞を、ID4遺伝子プロモーターのメチル化レベルを低下させるか、または細胞内のID4遺伝子の発現レベルを上昇させる化合物と接触させる。)
-
-[WO patent](https://patentimages.storage.googleapis.com/4e/74/91/6f14884c054aee/WO2006084051A2.pdf) / [WO patent](https://patentimages.storage.googleapis.com/cf/ef/f7/62002cf4b02215/WO2010115127A1.pdf) / [US patent](https://patentimages.storage.googleapis.com/cf/4f/af/bd42795666efb5/CA2729621A1.pdf) / [US patent](https://patentimages.storage.googleapis.com/9f/3d/22/ddcca74a5398ca/US7888033.pdf)
