@@ -85,6 +85,7 @@ section { padding: 24px 0 32px; border-top: 1px solid var(--border); }
 .timeline li { position: relative; margin: 0 0 18px; padding-left: 12px; }
 .timeline li::before { content: ""; position: absolute; left: -28px; top: 7px; width: 12px; height: 12px; border-radius: 50%; background: var(--surface-1); border: 2px solid var(--text-muted); }
 .timeline li.seed::before { background: var(--seed); border-color: var(--seed); }
+.timeline li.parallel::before { border-color: var(--seed); border-style: dashed; }
 .timeline .yr { font-weight: 700; font-variant-numeric: tabular-nums; margin-right: 8px; }
 .timeline h3 { display: inline; font-size: 16px; margin: 0; }
 .timeline p { margin: 4px 0 0; color: var(--text-secondary); font-size: 14px; }

@@ -63,8 +63,8 @@
     return `<a href="https://pubmed.ncbi.nlm.nih.gov/${pmid}/" target="_blank" rel="noopener">${esc(label)}</a>${cb}`;
   };
   const TL = [
-    { y: 2003, t: '先行研究: 血漿 DNA の integrity という概念', p: 'Wang らが、がん患者の血漿 DNA では長い断片の割合 (integrity) が高いことを報告した。', r: [['12873992', 'Wang BG, Cancer Res 2003']] },
-    { y: 2006, seed: true, t: '起点: ALU 直接 qPCR と血清による integrity の測定', p: 'DNA 精製を省き、ALU 反復配列の長短 2 種類のアンプリコン (247 bp / 115 bp) を直接 qPCR で測る超高感度法を開発した。大腸癌・十二指腸乳頭部癌、乳癌の進行度との相関を示し、血清で測ってよい根拠も示した。', r: [['16723681', 'Clin Chem 2006'], ['16963729', 'J Clin Oncol 2006'], ['17108224', 'Ann N Y Acad Sci 2006']] },
+    { y: 2003, parallel: true, t: '同時期に進んでいた 2 つの研究: Wang らが先に公表', p: '血中 DNA の長い断片の割合 (integrity) をがんの指標にするというアイデアは、梅谷らと Johns Hopkins の Wang らが、それぞれ独自に研究を進めていた。論文の公表は Wang らが先で、血漿 DNA を real-time PCR で測定し、がん患者で integrity が高いことを報告した。', r: [['12873992', 'Wang BG, Cancer Res 2003']] },
+    { y: 2006, seed: true, t: '梅谷らの報告: より高感度で安価な測定法', p: '血清を DNA 精製なしにそのまま鋳型とし、ALU 反復配列の長短 2 種類のアンプリコン (247 bp / 115 bp) を qPCR で測る方法を報告した。検出限界は 0.01 pg と超高感度で、精製を省くことで技術的な誤差と試薬・労力のコストを減らし、多数の検体を速く処理できる。大腸癌・十二指腸乳頭部癌での上昇、乳癌の進行度との相関を示し、血清で測ってよい根拠も示した。この ALU247/115 は、後続研究で最も広く使われる測定法になった (このページの集計で、長さを測った後続研究の約半数)。', r: [['16723681', 'Clin Chem 2006'], ['16963729', 'J Clin Oncol 2006'], ['17108224', 'Ann N Y Acad Sci 2006']] },
     { y: 2007, t: '各がん種への広がり', p: '頭頸部がん、前立腺がん、膀胱がん、精巣腫瘍、胃がんなどで、integrity や長短断片比を測る研究が相次いだ。', r: [['16991120', 'Jiang WW, Int J Cancer 2006'], ['17764114', 'Ellinger J, Int J Cancer 2007']] },
     { y: 2011, t: '腫瘍由来の DNA はむしろ短い', p: '大腸がんのマウスモデルと患者の血漿で、腫瘍由来の DNA が高度に断片化していることが示された。integrity の上昇・低下の解釈が見直され、「長さ」そのものへの関心が高まった。', r: [['20494973', 'Thierry AR, Nucleic Acids Res 2010'], ['21909401', 'Mouliere F, PLoS One 2011']] },
     { y: 2014, t: 'ALU・LINE-1 による乳がんの診断・予後', p: '原発・転移乳がんで ALU と LINE-1 を使った integrity が診断と予後予測に有用と報告された。', r: [['24838941', 'Madhavan D, Breast Cancer Res Treat 2014']] },
@@ -72,7 +72,7 @@
     { y: 2018, t: 'fragmentomics の時代へ', p: '断片長をシーケンスで網羅的に解析する手法が登場し、Nature・Science 系の主要誌に展開した。これらの代表的論文も起点の論文を引用している。', r: [['30404863', 'Mouliere F, Sci Transl Med 2018'], ['31142840', 'Cristiano S, Nature 2019 (DELFI)'], ['33833097', 'Lo YMD, Science 2021']] },
     { y: 2024, t: 'ALU 系 integrity のメタ解析', p: '大腸がんの ALU 系 cfDNA 17 研究で診断の統合 AUC 0.92、がん診断の integrity 46 研究で統合 AUC 0.84 と報告された。', r: [['35251637', 'Shaban SA, Mol Clin Oncol 2022'], ['39169935', 'Taghizadeh-Teymorloei M, Front Oncol 2024'], ['39061602', 'Rodríguez-Ces AM, Diagnostics 2024']] },
   ];
-  document.getElementById('timeline').innerHTML = TL.map((e) => `<li class="${e.seed ? 'seed' : ''}"><span class="yr">${e.y}</span><h3>${esc(e.t)}</h3><p>${esc(e.p)}</p><p class="refs">${e.r.map(([p, l]) => ref(p, l)).join(' / ')}</p></li>`).join('');
+  document.getElementById('timeline').innerHTML = TL.map((e) => `<li class="${e.seed ? 'seed' : e.parallel ? 'parallel' : ''}"><span class="yr">${e.y}</span><h3>${esc(e.t)}</h3><p>${esc(e.p)}</p><p class="refs">${e.r.map(([p, l]) => ref(p, l)).join(' / ')}</p></li>`).join('');
 
   /* ---------- 凡例 ---------- */
   function legendHTML(items) {
