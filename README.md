@@ -1,6 +1,6 @@
 # 梅谷 直亨 / Naoyuki Umetani, MD, PhD
 
-東京の消化器外科医です。30 年あまり消化器外科の手術とがん診療 (化学療法・緩和医療を含む) に携わり、東京大学大学院と米国 John Wayne Cancer Institute でがんの分子生物学を研究してきました (医学博士)。医学生のころから医療用ソフトウェアの開発もしています。
+東京の消化器外科医です。30 年あまり消化器外科の手術とがん診療 (化学療法・緩和医療を含む) に携わり、東京大学大学院と米国 John Wayne Cancer Institute でがんの分子生物学を研究してきました (医学博士)。医学生のころから医療用統計ソフトなどの開発もしています。
 
 A gastrointestinal surgeon in Tokyo (MD, PhD) with three decades of surgical and oncology practice and a background in cancer research. I have also been writing medical software since medical school.
 
