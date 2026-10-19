@@ -60,7 +60,7 @@ Circulating DNA isolated from serum and plasma has been shown to be a useful bio
 すなわち、DNAバイオマーカーの測定には血漿ではなく血清を用いる方が合理的であることが示された。
 これはその後の血清中の遊離DNAのバイオマーカーとしての利用の促進につながった。
 
-追加研究の結果と併せて米欧日で特許取得 ([US patent](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf) / [WO patent](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) / [特許公報](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf))。
+追加研究の結果と併せて日米欧などに特許出願 ([WO2006/128192](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) / [特表2008-545418](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf) / [US2016/0115547](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf))。いずれの国でも登録には至っていない (詳細は[特許](#特許)の項)。
 
 </details>
 
@@ -112,7 +112,7 @@ CONCLUSION: Integrity of serum circulating DNA is a promising molecular biomarke
 そこで、筆者の開発した精製処理を必要としない超高感度のDNA定量法にて、PCRプライマーを適切に設計することでその分布の測定を実現した。
 その結果、わずか1滴の血液分の血清から、健常者と乳がん患者を判定できるだけでなく、乳がんの進行度まで予測できることが示された。
 
-この手法は乳がんに限らずあらゆる悪性腫瘍に応用が可能であり、追加研究の結果と併せて米欧日で特許取得 ([US patent](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf) / [WO patent](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) / [特許公報](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf))。
+この手法は乳がんに限らずあらゆる悪性腫瘍に応用が可能であり、追加研究の結果と併せて日米欧などに特許出願 ([WO2006/128192](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) / [特表2008-545418](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf) / [US2016/0115547](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf))。いずれの国でも登録には至っていない (詳細は[特許](#特許)の項)。
 
 ちなみに、血清を提供してくださった 2nd author の Dr. Giuliano は、
 乳がん手術で現在では標準的に行われているセンチネルリンパ節生検による診断を提唱し開発した乳腺外科医の世界的権威であり、
@@ -182,7 +182,7 @@ CONCLUSIONS: Direct ALU-qPCR is a robust, highly sensitive, and high-throughput 
 単純なDNA量を比較では、大腸癌では有意な増加を認めたが、十二指腸乳頭部癌患者癌患者では増加傾向はあるものの有意差は認められなかった。
 しかし、DNA integrity はいずれの癌患者でも有意に上昇しており、進行度が上がるとより高値となることが示された。
 
-この手法は、あらゆる悪性腫瘍に応用が可能であり、追加研究の結果と併せて米欧日で特許取得 ([US patent](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf) / [WO patent](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) / [特許公報](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf))。
+この手法は、あらゆる悪性腫瘍に応用が可能であり、追加研究の結果と併せて日米欧などに特許出願 ([WO2006/128192](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) / [特表2008-545418](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf) / [US2016/0115547](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf))。いずれの国でも登録には至っていない (詳細は[特許](#特許)の項)。
 ただし外傷や炎症などその他の疾患でもネクローシスによる血清中遊離循環DNAは増加するため、
 特異的な診断とはならない点には注意する必要がある。
 
@@ -264,7 +264,7 @@ ID4遺伝子はinhibitor of DNA-binding (ID) ファミリーの一員であり�
 細胞増殖にかかわるID4遺伝子の遺伝子のエピジェネティックな変異であるプロモーター領域のメチル化を、
 乳がん組織において初めて評価し、高メチル化がT1乳癌のリンパ節転移と関連していることを初めて示した。
 
-ID4を癌の診断および治療に用いるための特許を米欧で取得 ([US patent](https://patentimages.storage.googleapis.com/38/c9/97/65d8bf7f2e86e0/US7588894.pdf) / [WO2 patent](https://patentimages.storage.googleapis.com/4e/74/91/6f14884c054aee/WO2006084051A2.pdf))。
+ID4を癌の診断および治療に用いるための特許を米欧で取得 ([US7,588,894](https://patentimages.storage.googleapis.com/38/c9/97/65d8bf7f2e86e0/US7588894.pdf) / [EP2272984](https://patents.google.com/patent/EP2272984B1/en) / [WO2006/084051](https://patentimages.storage.googleapis.com/4e/74/91/6f14884c054aee/WO2006084051A2.pdf))。
 
 </details>
 
@@ -354,7 +354,7 @@ CONCLUSIONS: ID4 gene is a potential tumor suppressor gene for which methylation
 また、メチル化が大腸癌組織型における低分化および予後不良と相関していることを示した。
 ID4が新規癌抑制遺伝子である可能性が示唆された。
 
-ID4を癌の診断および治療に用いるための特許を米欧で取得 ([US patent](https://patentimages.storage.googleapis.com/38/c9/97/65d8bf7f2e86e0/US7588894.pdf) / [WO2 patent](https://patentimages.storage.googleapis.com/4e/74/91/6f14884c054aee/WO2006084051A2.pdf))。
+ID4を癌の診断および治療に用いるための特許を米欧で取得 ([US7,588,894](https://patentimages.storage.googleapis.com/38/c9/97/65d8bf7f2e86e0/US7588894.pdf) / [EP2272984](https://patents.google.com/patent/EP2272984B1/en) / [WO2006/084051](https://patentimages.storage.googleapis.com/4e/74/91/6f14884c054aee/WO2006084051A2.pdf))。
 
 </details>
 
@@ -1921,23 +1921,25 @@ AFP高値を呈した前縦隔悪性奇形腫の1例　AFP値と予後を中心�
 
 ## 特許
 
-ファミリー (同じ発明の各国出願) と各国の状況は Google Patents の記載によります (2026 年 10 月時点)。
+各国の状況は、各国特許庁・EPO・USPTO の法的状態の記録 (Google Patents に収録されたもの) によります (2026 年 10 月時点)。
 
 ### Use of free circulating DNA for diagnosis, prognosis, and treatment of cancer
 
 (癌の診断、予後、および治療のための遊離循環DNAの使用)
 
+日本・米国・欧州・オーストラリアに出願したが、いずれの国でも登録には至っていない。
+
 Inventor: Dave S.B. Hoon, **Naoyuki Umetani**, Eiji Sunami
 Original Assignee: John Wayne Cancer Institute
 Priority date: 2005-05-27
 
-| 国・地域 | 番号 | 書類 |
-|---|---|---|
-| 日本 | 特表2008-545418 (特願2008-513837) | [公表特許公報 (PDF)](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf) / [Google Patents](https://patents.google.com/patent/JP2008545418A/ja) |
-| 国際 (PCT) | WO2006/128192 | [国際公開 (PDF)](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) |
-| 米国 | US2009/0280479, US2016/0115547 | [US2016/0115547 (PDF)](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf) |
-| 欧州 | EP1888786 | [Google Patents](https://patents.google.com/patent/EP1888786A4/en) |
-| オーストラリア | AU2006251937 | [Google Patents](https://patents.google.com/patent/AU2006251937A1/en) |
+| 国・地域 | 番号 | 状況 | 書類 |
+|---|---|---|---|
+| 日本 | 特表2008-545418 (特願2008-513837) | 2013年3月5日 拒絶査定 | [公表特許公報 (PDF)](https://patentimages.storage.googleapis.com/fe/3c/93/1f920a2921f346/JP2008545418A.pdf) / [Google Patents](https://patents.google.com/patent/JP2008545418A/ja) |
+| 国際 (PCT) | WO2006/128192 | 国際出願 (各国へ移行) | [国際公開 (PDF)](https://patentimages.storage.googleapis.com/ab/36/43/600fa667077451/WO2006128192A2.pdf) |
+| 米国 | US2009/0280479, US2016/0115547 | いずれも放棄 (2015年, 2017年) | [US2016/0115547 (PDF)](https://patentimages.storage.googleapis.com/b0/97/74/6fee460b584f14/US20160115547A1.pdf) |
+| 欧州 | EP1888786 | みなし取り下げ (2015年12月1日) | [Google Patents](https://patents.google.com/patent/EP1888786A4/en) |
+| オーストラリア | AU2006251937 | 失効 (2012年) | [Google Patents](https://patents.google.com/patent/AU2006251937A1/en) |
 
 Abstract
 A method of detecting circulating DNA in a body fluid. The method comprises identifying a subject suffering from or at risk for developing cancer, obtaining a body fluid sample from the subject, and determining the sequence integrity of circulating DNA in the sample, wherein the circulating DNA is not purified from the sample.
@@ -1948,17 +1950,19 @@ A method of detecting circulating DNA in a body fluid. The method comprises iden
 
 (癌の診断と治療のためのID4の使用)
 
+米国 (2 件) と欧州で特許登録。
+
 Inventor: Dave S. B. Hoon, **Naoyuki Umetani**
 Original Assignee: John Wayne Cancer Institute
 Priority date: 2005-02-01
 
-| 国・地域 | 番号 | 書類 |
-|---|---|---|
-| 米国 | US7,588,894 (特許) | [Google Patents](https://patents.google.com/patent/US7588894B2/en) |
-| 米国 | US7,888,033 (特許) | [特許公報 (PDF)](https://patentimages.storage.googleapis.com/9f/3d/22/ddcca74a5398ca/US7888033.pdf) |
-| 欧州 | EP2272984 (特許) | [Google Patents](https://patents.google.com/patent/EP2272984B1/en) |
-| 国際 (PCT) | WO2006/084051, WO2010/115127 | [WO2006/084051 (PDF)](https://patentimages.storage.googleapis.com/4e/74/91/6f14884c054aee/WO2006084051A2.pdf) / [WO2010/115127 (PDF)](https://patentimages.storage.googleapis.com/cf/ef/f7/62002cf4b02215/WO2010115127A1.pdf) |
-| カナダ | CA2729621 | [公開公報 (PDF)](https://patentimages.storage.googleapis.com/cf/4f/af/bd42795666efb5/CA2729621A1.pdf) |
+| 国・地域 | 番号 | 状況 | 書類 |
+|---|---|---|---|
+| 米国 | US7,588,894 | 特許登録 (2009年) | [特許公報 (PDF)](https://patentimages.storage.googleapis.com/38/c9/97/65d8bf7f2e86e0/US7588894.pdf) |
+| 米国 | US7,888,033 | 特許登録 (2011年) | [特許公報 (PDF)](https://patentimages.storage.googleapis.com/9f/3d/22/ddcca74a5398ca/US7888033.pdf) |
+| 欧州 | EP2272984 | 特許登録 (2012年6月20日) | [Google Patents](https://patents.google.com/patent/EP2272984B1/en) |
+| 国際 (PCT) | WO2006/084051, WO2010/115127 | 国際出願 | [WO2006/084051 (PDF)](https://patentimages.storage.googleapis.com/4e/74/91/6f14884c054aee/WO2006084051A2.pdf) / [WO2010/115127 (PDF)](https://patentimages.storage.googleapis.com/cf/ef/f7/62002cf4b02215/WO2010115127A1.pdf) |
+| カナダ | CA2729621 | 放棄 | [公開公報 (PDF)](https://patentimages.storage.googleapis.com/cf/4f/af/bd42795666efb5/CA2729621A1.pdf) |
 
 Abstract
 The invention relates to a method of determining whether a human subject is suffering from or at risk for developing pancreatic cancer by determining the methylation level of an ID4 gene promoter or the expression level of an ID4 gene in a biological sample from a human subject. Also disclosed are a method of analyzing the methylation level of an ID4 gene promoter or the expression level of an ID4 gene in a pancreatic cancer cell, and a method of inhibiting the methylation of an ID4 gene promoter or enhancing the expression of an ID4 gene by contacting a pancreatic cancer cell with a compound that decreases the methylation level of an ID4 gene promoter or increases the expression level of an ID4 gene in the cell.
