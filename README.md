@@ -9,7 +9,7 @@ A gastrointestinal surgeon in Tokyo (MD, PhD) with three decades of surgical and
 - **[休薬情報データベース (kyuyaku-data)](https://github.com/numero-uno-jpn/kyuyaku-data)**: 手術・処置や造影 CT の前に、どの薬を何日前から休薬するかを、学会ガイドラインや添付文書などの一次資料に基づいて整理したオープンデータ ([参照アプリ](https://numero-uno-jpn.github.io/kyuyaku-data/))
 - **[rStats.js](https://github.com/numero-uno-jpn/rStats.js)**: R の統計関数 (確率分布、set.seed() と同じ乱数、仮説検定、回帰モデル、線形代数など) をブラウザと Node.js で使える JavaScript ライブラリ。R の出力と照合してテストしている ([デモ](https://numero-uno-jpn.github.io/rStats.js/demo/)、npm: `@numero-uno-jpn/rstats`)
 - **[研究の系譜マップ](https://numero-uno-jpn.github.io/research-map/)**: 2006 年に報告した血中遊離 DNA の integrity によるがん診断が、その後どのような研究につながったかを俯瞰するページ
-- **[element-strip](https://github.com/numero-uno-jpn/element-strip)**: 118 元素を原子番号順に一列に並べ、左右スクロールで眺める周期表の試作。立体周期表エレメンタッチに着想 ([デモ](https://numero-uno-jpn.github.io/element-strip/))
+- **[元素ベルト (Element Belt)](https://github.com/numero-uno-jpn/element-strip)**: 118 元素を原子番号順に一列に並べ、左右スクロールで眺める周期表の試作。立体周期表エレメンタッチに着想 ([デモ](https://numero-uno-jpn.github.io/element-strip/))
 
 ### 背景 / Background
 
